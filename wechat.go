@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/silenceper/wechat/cache"
+	"github.com/qxjquan/wechat/cache"
 	"github.com/silenceper/wechat/context"
 	"github.com/silenceper/wechat/js"
 	"github.com/silenceper/wechat/material"
