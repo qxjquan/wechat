@@ -6,11 +6,11 @@ import (
 
 	"github.com/qxjquan/wechat/cache"
 	"github.com/silenceper/wechat/context"
-	"github.com/silenceper/wechat/js"
+	"github.com/qxjquan/wechat/js"
 	"github.com/silenceper/wechat/material"
 	"github.com/silenceper/wechat/menu"
 	"github.com/silenceper/wechat/miniprogram"
-	"github.com/silenceper/wechat/oauth"
+	"github.com/qxjquan/wechat/oauth"
 	"github.com/silenceper/wechat/pay"
 	"github.com/silenceper/wechat/qr"
 	"github.com/silenceper/wechat/server"
